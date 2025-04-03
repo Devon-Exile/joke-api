@@ -3,4 +3,8 @@ body {
     background-color: black;
     color: white;
     text-align: center;
+    padding-top: 200px;
+}
+p{
+    padding-top: 100px;
 }
